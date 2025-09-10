@@ -24,5 +24,6 @@ var body: some View {
     .foregroundColor(.white)
 }
 
-// Congrats. You are using the white color that you defined it before.
+//You can use the white color that you defined it before.
+
 
